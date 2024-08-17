@@ -3,6 +3,7 @@ name: Run server scraper
 on: 
   schedule:
     - cron: '*/30 * * * *' # every 30 mins
+  workflow_dispatch:
 
 jobs:
   build:
