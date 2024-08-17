@@ -1,9 +1,9 @@
 name: Run server scraper
 
-on: 
+on:
+  workflow_dispatch:
   schedule:
     - cron: '*/30 * * * *' # every 30 mins
-  workflow_dispatch:
 
 jobs:
   build:
