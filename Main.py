@@ -21,6 +21,7 @@ with open("favourites.json", "w") as outfile:
 README = r"""
 ## H2M Server Favorites Generator.
 ### Runs every 30 mins
+### !!Removes trickshot servers!!
 
 ## Server count: [{}]
 ### Download: [Save page as.. > favourites.json](https://raw.githubusercontent.com/Trnrr/h2m-serverlist-favorite-builder/main/favourites.json)
