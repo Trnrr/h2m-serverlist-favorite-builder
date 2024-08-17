@@ -2,7 +2,7 @@
 ## H2M Server Favorites Generator.
 ### Runs every 30 mins
 
-## Server count: [322]
+## Server count: [332]
 ### Download: [Save page as.. > favourites.json](https://raw.githubusercontent.com/Trnrr/h2m-serverlist-favorite-builder/main/favourites.json)
 
 ### How to use:
