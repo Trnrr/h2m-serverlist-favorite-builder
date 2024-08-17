@@ -1,1 +1,2 @@
-# h2m-serverlist-favorite-builder
+
+### Server count: [199]
