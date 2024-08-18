@@ -3,7 +3,7 @@
 ### Runs every 6 hours
 ### !!Removes trickshot servers!!
 
-## Server count: [346]
+## Server count: [404]
 ### Download: [Save page as.. > favourites.json](https://raw.githubusercontent.com/Trnrr/h2m-serverlist-favorite-builder/main/favourites.json)
 
 ### How to use:
