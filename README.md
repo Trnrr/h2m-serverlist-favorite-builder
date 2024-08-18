@@ -1,9 +1,9 @@
 
 ## H2M Server Favorites Generator.
 ### Runs every 6 hours
-### !! Removes trickshot servers !!
+### !!Removes trickshot servers!!
 
-## Server count: [310]
+## Server count: [330]
 ### Download: [Save page as.. > favourites.json](https://raw.githubusercontent.com/Trnrr/h2m-serverlist-favorite-builder/main/favourites.json)
 
 ### How to use:
